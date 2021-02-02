@@ -1,0 +1,25 @@
+steps
+1 npm install node
+  //vai intalar o node_models
+  npm init // cria a o package.json
+
+2 - instalar as dependencias
+  npm install body-parser --save
+  npm install express-validator --save
+  npm install commonjs
+  npm install node-fetch
+  npm install ejs
+  npm install -g nodemon
+  * npm install crypto --save
+
+npm install ejs body-parser express commonjs node-fetch -y
+
+roda o app
+node app
+
+
+3 {
+  Criar página com pelo menos 2 campos no formulário.
+  Criar nova interface para processamento e retorno dos dados (apresentar valores enviados através do formulário).
+  Utilizar no projeto o CommonJs para organização.}
+
